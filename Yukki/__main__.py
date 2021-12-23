@@ -119,9 +119,20 @@ async def initiate_bot():
     console.print(f"\n[red]Stopping Bot")
 
 
-home_text_pm = f"""Hello ,
-My name is {BOT_NAME}.
-I'm Telegram Voice Chat Audio with some useful features.
+Yukki_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
+
+home_text_pm = """
+*👋 Hᴇʟʟᴏ {} !*
+
+✗ *My Nᴀᴍᴇ Iᴢ {BOT_NAME}.*
+✗ *I'ᴍ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ Aᴜᴅɪᴏ Wɪᴛʜ Sᴏᴍᴇ Uꜱᴇꜰᴜʟ Fᴇᴀᴛᴜʀᴇꜱ.
+!*
+────────────────────────
+× *Uᴘᴛɪᴍᴇ:* {}
+× {} *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* {} *Cʜᴀᴛꜱ.*
+────────────────────────
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [ Tyᴄʜᴏɴ ] (@itz_me_tychon)!*
+______________________________________
 
 All commands can be used with: / """
 
