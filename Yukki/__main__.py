@@ -122,7 +122,7 @@ async def initiate_bot():
 home_text_pm = """
 *👋 Hᴇʟʟᴏ !*
 
-✗ *My Nᴀᴍᴇ Iᴢ {BOT_NAME}.*
+✗ *My Nᴀᴍᴇ Iᴢ {BOT_NAME} .*
 ✗ *I'ᴍ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ Aᴜᴅɪᴏ Wɪᴛʜ Sᴏᴍᴇ Uꜱᴇꜰᴜʟ Fᴇᴀᴛᴜʀᴇꜱ.
 !*
 ────────────────────────
