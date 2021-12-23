@@ -119,19 +119,14 @@ async def initiate_bot():
     console.print(f"\n[red]Stopping Bot")
 
 
-Yukki_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
-
 home_text_pm = """
-*👋 Hᴇʟʟᴏ {} !*
+*👋 Hᴇʟʟᴏ !*
 
 ✗ *My Nᴀᴍᴇ Iᴢ {BOT_NAME}.*
 ✗ *I'ᴍ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ Aᴜᴅɪᴏ Wɪᴛʜ Sᴏᴍᴇ Uꜱᴇꜰᴜʟ Fᴇᴀᴛᴜʀᴇꜱ.
 !*
 ────────────────────────
-× *Uᴘᴛɪᴍᴇ:* {}
-× {} *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* {} *Cʜᴀᴛꜱ.*
-────────────────────────
-✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [ Tyᴄʜᴏɴ ] (@itz_me_tychon)!*
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [Tyᴄʜᴏɴ](https://t.me/itz_me_tychon)!*
 ______________________________________
 
 All commands can be used with: / """
