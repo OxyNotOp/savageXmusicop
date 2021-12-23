@@ -1,5 +1,5 @@
  <h2 align="center">
-   Other Deployment Methods
+   🔥 Deployment Methods 🔥
 </h2>
 
 <p align="center">
